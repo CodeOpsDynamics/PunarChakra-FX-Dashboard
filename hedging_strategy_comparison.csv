@@ -1,0 +1,4 @@
+Scenario,Future Spot (₹/USD),Unhedged INR Realisation (₹),Strategy A — Forward (60%) (₹),Strategy B — Options 100% (₹),Strategy C — Natural+Fwd (₹),A vs Unhedged (₹),B vs Unhedged (₹),C vs Unhedged (₹)
+Baseline,96.5,9650000,9684200,9584436,9695600,34200,-65564,45600
+Bear (INR),101.0,10100000,9864200,9977436,9785600,-235800,-122564,-314400
+Bull (INR),90.0,9000000,9424200,9584436,9565600,424200,584436,565600

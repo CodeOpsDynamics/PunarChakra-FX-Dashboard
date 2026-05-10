@@ -1,0 +1,5 @@
+Tenor_Months,Spot_Rate_INR_USD,IRP_Forward_Rate_INR_USD,Forward_Premium_Pct,Implication
+3,94.28,94.65,0.39,INR at forward premium — lock rate now
+6,94.28,95.02,0.78,INR at forward premium — lock rate now
+9,94.28,95.39,1.17,INR at forward premium — lock rate now
+12,94.28,95.76,1.57,INR at forward premium — lock rate now
